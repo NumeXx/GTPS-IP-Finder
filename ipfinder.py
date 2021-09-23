@@ -10,4 +10,4 @@ for i in ok:
     elif not i[0].isdigit():
         pass
     else:
-        print(i) 
+        print(str(i)) 
